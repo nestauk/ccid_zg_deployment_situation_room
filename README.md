@@ -1,2 +1,5 @@
-# ccid_zg_deployment_prod | Zeitgeist
-Zeitgeist is a deliberative polling application. The source code is held in a different repository, and we'll be deploying a production build into this repository and then serving it through GitHub Pages.
+# Zeitgeist
+
+Zeitgeist is a deliberation and polling facilitation tool for small groups, in-person or online, developed by the Centre for Collecive Intelligence Design.
+
+This repository contains a static SPA Zeitgeist deployment.
